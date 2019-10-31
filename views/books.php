@@ -6,7 +6,7 @@
   <?php
     foreach ($books as $book) {
       ?>
-      <li><?php echo $book['title']; ?></li>
+      <li><?php echo $book['title']; ?></li>    
       <?php
       //code...
     }
